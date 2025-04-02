@@ -4,8 +4,8 @@ project:
 
 website:
   title: "My Personal Blog"
-  site-url: https://gnart33.github.io/gnart33
-  repo-url: https://github.com/gnart33/gnart33
+  site-url: https://gnart33.github.io
+  repo-url: https://github.com/gnart33/gnart33.github.io
   repo-actions: [edit, issue]
   page-navigation: true
   search: true
@@ -19,7 +19,7 @@ website:
         href: blog/index.qmd
     right:
       - icon: github
-        href: https://github.com/gnart33/gnart33
+        href: https://github.com/gnart33/gnart33.github.io
         aria-label: GitHub Repository
   navbar:
     background: light
@@ -34,7 +34,7 @@ website:
         href: about.qmd
     right:
       - icon: github
-        href: https://github.com/gnart33/gnart33
+        href: https://github.com/gnart33/gnart33.github.io
         aria-label: GitHub Repository
   # sidebar:
   #   style: "floating"

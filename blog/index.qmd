@@ -1,14 +1,29 @@
 ---
-title: "Posts"
+title: "Blog Posts"
 ---
 
-<!-- ::: {.lead}
-Welcome to my blog! 
-::: -->
+::: {.lead}
+Welcome to my blog! Here you'll find all my articles about technology, programming, and more.
+:::
 
-<!-- ## Latest Posts -->
+## Latest Posts
 
 ::: {.link-cards}
+::: {.card}
+::: {.card-title}
+#### [Data Analysis with Python](/blog/data-analysis.ipynb)
+:::
+
+::: {.card-subtitle}
+Learn how to analyze data using Python libraries
+:::
+
+::: {.card-body}
+- Data visualization
+- Statistical analysis
+- Python libraries
+:::
+:::
 
 ::: {.card}
 ::: {.card-title}
@@ -19,9 +34,17 @@ Welcome to my blog!
 Learn how to create beautiful documents with Quarto
 :::
 
+::: {.card-body}
+- Markdown basics
+- Code execution
+- Custom formatting
+:::
+:::
+:::
 
+## All Posts
 
-::: {.card}
-::: {.card-title}
+- [Data Analysis with Python](/blog/data-analysis.ipynb) - April 2, 2024
+- [Getting Started with Quarto](/blog/getting-started) - April 2, 2024
 
 
