@@ -1,17 +1,38 @@
 [
   {
+    "objectID": "blog/data-analysis.html",
+    "href": "blog/data-analysis.html",
+    "title": "Data Analysis with Python",
+    "section": "",
+    "text": "Data Analysis with Python\nIn this post, we’ll explore some basic data analysis using Python libraries.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Generate some sample data\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\n# Create a simple plot\nplt.figure(figsize=(10, 6))\nplt.plot(x, y, 'b-', label='sin(x)')\nplt.title('Simple Sine Wave')\nplt.xlabel('x')\nplt.ylabel('sin(x)')\nplt.grid(True)\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "Welcome to my blog! Here you’ll find all my articles about technology, programming, and more."
+  },
+  {
+    "objectID": "blog/index.html#latest-posts",
+    "href": "blog/index.html#latest-posts",
+    "title": "Blog Posts",
+    "section": "Latest Posts",
+    "text": "Latest Posts\n\n\n\nData Analysis with Python\n\n\nLearn how to analyze data using Python libraries\n\n\n\nData visualization\nStatistical analysis\nPython libraries\n\n\n\n\n\nGetting Started with Quarto\n\n\nLearn how to create beautiful documents with Quarto\n\n\n\nMarkdown basics\nCode execution\nCustom formatting"
+  },
+  {
+    "objectID": "blog/index.html#all-posts",
+    "href": "blog/index.html#all-posts",
+    "title": "Blog Posts",
+    "section": "All Posts",
+    "text": "All Posts\n\nData Analysis with Python - April 2, 2024\nGetting Started with Quarto - April 2, 2024"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello",
     "section": "",
     "text": "Welcome"
-  },
-  {
-    "objectID": "blog/getting-started.html",
-    "href": "blog/getting-started.html",
-    "title": "Getting Started with Quarto",
-    "section": "",
-    "text": "Learning"
   },
   {
     "objectID": "about.html",
@@ -49,10 +70,10 @@
     "text": "My Projects\n\n\n\nProject 1\n\n\nA brief description of your first project\n\n\n\nKey features\nTechnologies used\nGitHub link\n\n\n\n\n\nProject 2\n\n\nA brief description of your second project\n\n\n\nKey features\nTechnologies used\nGitHub link"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Posts",
+    "objectID": "blog/getting-started.html",
+    "href": "blog/getting-started.html",
+    "title": "Getting Started with Quarto",
     "section": "",
-    "text": "Getting Started with Quarto\n\n\nLearn how to create beautiful documents with Quarto"
+    "text": "Learning"
   }
 ]
