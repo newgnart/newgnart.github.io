@@ -1,0 +1,18 @@
+# Quarto
+/.quarto/
+/_site/
+/reference/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db 
