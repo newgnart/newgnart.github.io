@@ -1,23 +1,9 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "All Posts",
-    "section": "",
-    "text": "Stablecoins"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Gnart Ng.",
     "section": "",
     "text": "Get in touch\n\nGitHub\nTwitter\nLinkedIn\nTelegram"
-  },
-  {
-    "objectID": "blog/stablecoins.html",
-    "href": "blog/stablecoins.html",
-    "title": "Stablecoins",
-    "section": "",
-    "text": "Taming the stablecoins"
   }
 ]
