@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gnart N",
+    "section": "",
+    "text": "Writing about:\n\nData engineering (mostly blockchain) at data-sleuth\nVietnamese"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Gnart Ng.",
+    "title": "Get in touch",
     "section": "",
-    "text": "Get in touch\n\nGitHub\nTwitter\nLinkedIn\nTelegram"
+    "text": "GitHub\nTwitter\nLinkedIn\nTelegram"
   }
 ]
