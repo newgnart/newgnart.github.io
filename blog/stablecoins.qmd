@@ -1,8 +1,0 @@
----
-title: "Stablecoins"
----
-
-::: {.lead}
-Taming the stablecoins
-:::
-
