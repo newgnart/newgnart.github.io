@@ -3,12 +3,12 @@ project:
   output-dir: _site
 
 website:
-  title: "<a href='https://youtu.be/fn1R-5p_j5c?si=f0ZoaDm-FcT3uIwH'>not a machine</a>"
+  # title: "<a href='https://youtu.be/fn1R-5p_j5c?si=f0ZoaDm-FcT3uIwH'>not a machine</a>"
   site-url: https://newgnart.github.io
   repo-url: https://github.com/newgnart
-  repo-actions: [edit, issue]
+  # repo-actions: [edit, issue]
   page-navigation: true
-  search: true
+  search: false
   page-footer:
     left: |
       Built with [Quarto](https://quarto.org)
@@ -16,17 +16,18 @@ website:
       - icon: github
         href: https://github.com/newgnart
         aria-label: GitHub
+      - icon: telegram
+        href: https://t.me/newgnart
+        aria-label: Telegram
   navbar:
     background: light
     search: true
     collapse-below: lg
 
     right:
-      # - text: "Home"
-      #   href: index.qmd
-      - text: "Stablecoins"
-        href: https://newgnart.github.io/evm-sleuth/#stablecoins
-      - text: "About Me"
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
         href: about.qmd
 
 format:

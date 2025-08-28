@@ -1,8 +1,6 @@
 ---
-title: "Gnart Ng."
+title: "Get in touch"
 ---
-
-##### Get in touch
 
 - [GitHub](https://github.com/newgnart)
 - [Twitter](https://twitter.com/newgnart)

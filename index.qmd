@@ -1,4 +1,8 @@
 ---
-title: "Gnart Ng."
+title: "Gnart N"
 ---
 
+Writing about:
+
+- Data engineering (mostly blockchain) at [data-sleuth](https://newgnart.github.io/data-sleuth/)
+- Vietnamese
