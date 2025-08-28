@@ -2,75 +2,10 @@
 title: "About Me"
 ---
 
-::: {.lead}
-Hi! I'm a passionate developer and writer who loves sharing knowledge and experiences with others.
-:::
+##### Get in touch
 
-## Background
+- [GitHub](https://github.com/newgnart)
+- [Twitter](https://twitter.com/newgnart)
+- [LinkedIn](https://linkedin.com/in/nvtrang91)
+- [Telegram](https://t.me/newgnart)
 
-I have been working in the technology industry for several years, focusing on software development and technical writing. My journey in tech has been driven by a constant desire to learn and share knowledge with others.
-
-## What I Do
-
-- Software Development
-- Technical Writing
-- Open Source Contributions
-- Community Building
-
-## Get in Touch
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-### Social Media
-
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### Contact
-
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com)
-:::
-
-:::
-
-## My Projects
-
-::: {.link-cards}
-
-::: {.card}
-::: {.card-title}
-#### [Project 1](/projects/project1)
-:::
-
-::: {.card-subtitle}
-A brief description of your first project
-:::
-
-::: {.card-body}
-- Key features
-- Technologies used
-- GitHub link
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-#### [Project 2](/projects/project2)
-:::
-
-::: {.card-subtitle}
-A brief description of your second project
-:::
-
-::: {.card-body}
-- Key features
-- Technologies used
-- GitHub link
-:::
-:::
-
-:::

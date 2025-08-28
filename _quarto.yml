@@ -3,9 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "My Personal Blog"
-  site-url: https://gnart33.github.io
-  repo-url: https://github.com/gnart33/gnart33.github.io
+  title: "<a href='https://youtu.be/fn1R-5p_j5c?si=f0ZoaDm-FcT3uIwH'>not a machine</a>"
+  site-url: https://newgnart.github.io
+  repo-url: https://github.com/newgnart
   repo-actions: [edit, issue]
   page-navigation: true
   search: true
@@ -19,24 +19,24 @@ website:
         href: blog/index.qmd
     right:
       - icon: github
-        href: https://github.com/gnart33/gnart33.github.io
-        aria-label: GitHub Repository
+        href: https://github.com/newgnart
+        aria-label: GitHub
   navbar:
     background: light
     search: true
     collapse-below: lg
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Blog"
-        href: blog/index.qmd
-      - text: "About"
-        href: about.qmd
+
     right:
-      - icon: github
-        href: https://github.com/gnart33/gnart33.github.io
-        aria-label: GitHub Repository
-  # sidebar:
+      - text: "Home"
+        href: blog/index.qmd
+      - text: "Stablecoins"
+        href: blog/stablecoins.qmd
+      - text: "About Me"
+        href: about.qmd
+  #     - icon: github
+  #       href: https://github.com/newgnart
+  #       aria-label: GitHub
+  # # sidebar:
   #   style: "floating"
   #   contents:
   #     - section: "Blog"
@@ -51,8 +51,8 @@ format:
     css: styles.css
     toc: true
     highlight-style: github
-    code-fold: true
-    code-tools: true
+    code-fold: false
+    code-tools: false
     fig-responsive: true
     fig-format: retina
     fig-dpi: 144
