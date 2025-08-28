@@ -1,79 +1,23 @@
 [
   {
-    "objectID": "blog/data-analysis.html",
-    "href": "blog/data-analysis.html",
-    "title": "Data Analysis with Python",
-    "section": "",
-    "text": "Data Analysis with Python\nIn this post, we’ll explore some basic data analysis using Python libraries.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n# Generate some sample data\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\n# Create a simple plot\nplt.figure(figsize=(10, 6))\nplt.plot(x, y, 'b-', label='sin(x)')\nplt.title('Simple Sine Wave')\nplt.xlabel('x')\nplt.ylabel('sin(x)')\nplt.grid(True)\nplt.legend()\nplt.show()"
-  },
-  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Blog Posts",
+    "title": "All Posts",
     "section": "",
-    "text": "Welcome to my blog! Here you’ll find all my articles about technology, programming, and more."
-  },
-  {
-    "objectID": "blog/index.html#latest-posts",
-    "href": "blog/index.html#latest-posts",
-    "title": "Blog Posts",
-    "section": "Latest Posts",
-    "text": "Latest Posts\n\n\n\nData Analysis with Python\n\n\nLearn how to analyze data using Python libraries\n\n\n\nData visualization\nStatistical analysis\nPython libraries\n\n\n\n\n\nGetting Started with Quarto\n\n\nLearn how to create beautiful documents with Quarto\n\n\n\nMarkdown basics\nCode execution\nCustom formatting"
-  },
-  {
-    "objectID": "blog/index.html#all-posts",
-    "href": "blog/index.html#all-posts",
-    "title": "Blog Posts",
-    "section": "All Posts",
-    "text": "All Posts\n\nData Analysis with Python - April 2, 2024\nGetting Started with Quarto - April 2, 2024"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello",
-    "section": "",
-    "text": "Welcome"
+    "text": "Stablecoins"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I’m a passionate developer and writer who loves sharing knowledge and experiences with others."
+    "text": "Get in touch\n\nGitHub\nTwitter\nLinkedIn\nTelegram"
   },
   {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "Background",
-    "text": "Background\nI have been working in the technology industry for several years, focusing on software development and technical writing. My journey in tech has been driven by a constant desire to learn and share knowledge with others."
-  },
-  {
-    "objectID": "about.html#what-i-do",
-    "href": "about.html#what-i-do",
-    "title": "About Me",
-    "section": "What I Do",
-    "text": "What I Do\n\nSoftware Development\nTechnical Writing\nOpen Source Contributions\nCommunity Building"
-  },
-  {
-    "objectID": "about.html#get-in-touch",
-    "href": "about.html#get-in-touch",
-    "title": "About Me",
-    "section": "Get in Touch",
-    "text": "Get in Touch\n\n\nSocial Media\n\nGitHub\nTwitter\nLinkedIn\n\n\n\nContact\nFeel free to reach out to me at your.email@example.com"
-  },
-  {
-    "objectID": "about.html#my-projects",
-    "href": "about.html#my-projects",
-    "title": "About Me",
-    "section": "My Projects",
-    "text": "My Projects\n\n\n\nProject 1\n\n\nA brief description of your first project\n\n\n\nKey features\nTechnologies used\nGitHub link\n\n\n\n\n\nProject 2\n\n\nA brief description of your second project\n\n\n\nKey features\nTechnologies used\nGitHub link"
-  },
-  {
-    "objectID": "blog/getting-started.html",
-    "href": "blog/getting-started.html",
-    "title": "Getting Started with Quarto",
+    "objectID": "blog/stablecoins.html",
+    "href": "blog/stablecoins.html",
+    "title": "Stablecoins",
     "section": "",
-    "text": "Learning"
+    "text": "Taming the stablecoins"
   }
 ]
