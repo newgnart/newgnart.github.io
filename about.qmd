@@ -1,9 +1,0 @@
----
-title: "Get in touch"
----
-
-- [GitHub](https://github.com/newgnart)
-- [Twitter](https://twitter.com/newgnart)
-- [LinkedIn](https://linkedin.com/in/nvtrang91)
-- [Telegram](https://t.me/newgnart)
-
