@@ -21,13 +21,9 @@ website:
     search: true
     collapse-below: lg
 
-    right:
-      # - text: "Home"
-      #   href: index.qmd
-      - text: "Stablecoins"
-        href: https://newgnart.github.io/evm-sleuth/#stablecoins
-      - text: "About Me"
-        href: about.qmd
+
+
+
 
 format:
   html:
