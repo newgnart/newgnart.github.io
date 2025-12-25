@@ -1,0 +1,30 @@
+---
+title: "Example Data Analysis Post"
+author: "Your Name"
+date: "2025-12-25"
+categories: [analysis, tutorial]
+description: "This is an example post to demonstrate the structure"
+---
+
+## Introduction
+
+This is an example post in your Data Analysis section.
+
+## Analysis
+
+You can add your analysis here with code, plots, and explanations.
+
+```{python}
+#| echo: true
+#| eval: false
+
+# Example Python code
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Your analysis code here
+```
+
+## Conclusion
+
+Add your conclusions here.

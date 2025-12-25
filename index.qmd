@@ -2,6 +2,3 @@
 title: "Gnart N."
 ---
 *[GitHub](https://github.com/newgnart)   |   [LinkedIn](https://linkedin.com/in/nvtrang91)   |   [Telegram](https://t.me/newgnart)   |   [X](https://x.com/newgnart)*
-
-- Data engineering (mostly blockchain) at [data-sleuth](https://newgnart.github.io/data-sleuth/)
-- Vietnamese
