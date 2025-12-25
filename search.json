@@ -7,13 +7,6 @@
     "text": "Number of Holders"
   },
   {
-    "objectID": "analytics.html",
-    "href": "analytics.html",
-    "title": "Analytics",
-    "section": "",
-    "text": "Welcome to my analytics posts!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Stablecoin Index\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExample Data Analysis Post\n\n\n\nanalysis\n\ntutorial\n\n\n\nThis is an example post to demonstrate the structure\n\n\n\n\n\nDec 25, 2025\n\n\nYour Name\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gnart N.",
@@ -21,31 +14,10 @@
     "text": "GitHub | LinkedIn | Telegram | X"
   },
   {
-    "objectID": "analytics/example-post.html",
-    "href": "analytics/example-post.html",
-    "title": "Example Data Analysis Post",
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Analytics",
     "section": "",
-    "text": "This is an example post in your Data Analysis section."
-  },
-  {
-    "objectID": "analytics/example-post.html#introduction",
-    "href": "analytics/example-post.html#introduction",
-    "title": "Example Data Analysis Post",
-    "section": "",
-    "text": "This is an example post in your Data Analysis section."
-  },
-  {
-    "objectID": "analytics/example-post.html#analysis",
-    "href": "analytics/example-post.html#analysis",
-    "title": "Example Data Analysis Post",
-    "section": "Analysis",
-    "text": "Analysis\nYou can add your analysis here with code, plots, and explanations.\n\n# Example Python code\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n# Your analysis code here"
-  },
-  {
-    "objectID": "analytics/example-post.html#conclusion",
-    "href": "analytics/example-post.html#conclusion",
-    "title": "Example Data Analysis Post",
-    "section": "Conclusion",
-    "text": "Conclusion\nAdd your conclusions here."
+    "text": "Welcome to my analytics posts!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Stablecoin Index\n\n\n\ndata-analysis\n\nblockchain-analytics\n\n\n\nAnalysis of $OPEN\n\n\n\n\n\nDec 25, 2025\n\n\nYour Name\n\n\n\n\n\nNo matching items"
   }
 ]
